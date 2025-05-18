@@ -1,0 +1,22 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Trigger Script",
+      "preco": 39.99,
+      "categoria": "Script",
+      "jogo": "Standoff",
+      "descricao": "Trigger Hack",
+      "imagem": "standoff.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Trigger Script",
+      "preco": 39.99,
+      "categoria": "Script",
+      "jogo": "Free Fire",
+      "descricao": "Trigger Hack",
+      "imagem": "freefire.jpg"
+    }
+  ]
+}
