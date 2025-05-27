@@ -1,4 +1,4 @@
-const API_URL = "https://github.com/cheatbayhost/CheatBay/db.json";
+const API_URL = "https://raw.githubusercontent.com/cheatbayhost/CheatBay/main/docs/db.json";
 const produtosContainer = document.querySelector(".grid-produtos");
 
 function adicionarAoCarrinho(productId) {
